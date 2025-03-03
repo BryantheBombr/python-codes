@@ -1,4 +1,5 @@
 fruits = ["Apple", "Peach", "Pear"]
 for fruit in fruits:
     print(fruit)
-print(fruit + ' Pineapple')
+    print(fruit + ' Pineapple')
+print(fruits)
